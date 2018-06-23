@@ -1,0 +1,4 @@
+advantage estimation yaparken V leri targettan uzaklığa göre
+R ve Vpredict arasında oranlamak
+
+autoencoder eklemek
